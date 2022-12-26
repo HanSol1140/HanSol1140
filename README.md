@@ -2,7 +2,8 @@
 
 
 <br />
-<img src="[https://img.shields.io/github/followers/AlpoxDev?style=social](https://img.shields.io/github/followers/HanSol1140?style=social)">
+<img src="[https://img.shields.io/github/followers/AlpoxDev?style=social]
+(https://img.shields.io/github/followers/HanSol1140?style=social)">
 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
