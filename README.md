@@ -5,12 +5,12 @@
 
 ## 개발능력
 - 프론트엔드
-    HTML,CSS,JAVASCRIPT,REACT
+    HTML,CSS,JAVASCRIPT,REACT<br>
     
-- 백엔드 
+- 백엔드<br>
     JAVA
     
-- 사용툴
+- 사용툴<br>
   Visual Studio, Eclipse, Oracle EX
   
 
