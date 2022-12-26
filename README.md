@@ -4,8 +4,8 @@
 <h1>안녕하세요<em>!</em> 개발자 취업을 원하는 송한솔입니다.</h1>
 
 ## 개발능력
-- 프론트엔드
-    HTML,CSS,JAVASCRIPT,REACT<br>
+- 프론트엔드<br>
+    HTML,CSS,JAVASCRIPT,REACT
     
 - 백엔드<br>
     JAVA
