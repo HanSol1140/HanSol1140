@@ -2,8 +2,10 @@
 
 
 <br />
-![](https://img.shields.io/github/followers/skycriperd?style=social)
-안녕하세요 제 이름은 송한솔입니다.
+<img src="https://img.shields.io/github/followers/AlpoxDev?style=social">
+
+![](https://img.shields.io/github/followers/AlpoxDev?style=social)
+
 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
