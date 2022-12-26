@@ -2,7 +2,7 @@
 
 
 <br />
-https://img.shields.io/github/followers/skycriperd?style=social
+![](https://img.shields.io/github/followers/skycriperd?style=social)
 안녕하세요 제 이름은 송한솔입니다.
 
 
